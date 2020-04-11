@@ -15,7 +15,7 @@
 #
 
 # Release name
-PRODUCT_RELEASE_NAME := jason
+PRODUCT_RELEASE_NAME := m1881
 
 $(call inherit-product, build/target/product/embedded.mk)
 
